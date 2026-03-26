@@ -99,7 +99,7 @@ export function MainPage({ startAudio = false }: MainPageProps) {
             <SocialButton
               icon={<Send className="w-5 h-5" />}
               label="Developper"
-              href="https://t.me/kts1337"
+              href="https://t.me/faussaire1337"
             />
           
 
