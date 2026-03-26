@@ -22,7 +22,7 @@ export function SplashScreen({ onEnter }: SplashScreenProps) {
         className="text-center"
       >
         <h1 className="text-white text-5xl md:text-7xl tracking-wider font-light relative">
-          quelamif.fr
+          xyade.store | made by @locker1337
           <motion.div
             className="absolute -inset-4 bg-gradient-to-r from-cyan-500/20 via-transparent to-red-500/20 blur-2xl"
             animate={{
